@@ -94,3 +94,4 @@ Proses pengurutan dilakukan menggunakan metode insertion sort. Data akan dibandi
 10. Baris kesepuluh menunjukkan Rina berada di posisi terakhir karena memiliki waktu yang sama dengan Rahma tetapi jaraknya lebih jauh yaitu 9 km.
 
 ## e. Link YouTube 
+https://youtu.be/oz86FHpp7io?si=IxjYCsSLzKst3D6Y
