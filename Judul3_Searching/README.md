@@ -206,3 +206,4 @@ Perulangan akan dihentikan jika input sudah benar.
 * Nilai yang dicari berhasil ditemukan. Program kemudian menampilkan nomor antrian 24 beserta nama pasien Seo, sehingga pengguna mengetahui hasil pencarian dengan jelas.
 
 ## e. Link YouTube
+https://youtu.be/wfpfli6eUa4?si=zWvXkVa37RlgWPGR
