@@ -11,7 +11,8 @@ Struktur data yang diterapkan pada program ini adalah Queue dengan metode Linked
 <img width="666" height="843" alt="image" src="https://github.com/user-attachments/assets/5795a2de-6a0f-4791-877d-54b2d28fd587" />
 <img width="688" height="792" alt="image" src="https://github.com/user-attachments/assets/2c296eca-7ae8-448a-93a6-4b07bf51c054" />
 
-
+1. *(baris 1)* class Node:
+* Baris 1 digunakan untuk membuat class Node sebagai dasar pembentukan Linked List.
 
 
 
