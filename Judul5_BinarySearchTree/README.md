@@ -106,3 +106,81 @@ Program ini memiliki beberapa fungsi utama seperti menambahkan nilai, mencari ni
 <img width="389" height="857" alt="image" src="https://github.com/user-attachments/assets/381eebec-f5ba-4564-816f-dabc0f9c7554" />
 <img width="329" height="866" alt="image" src="https://github.com/user-attachments/assets/e8b42e0d-97b8-486f-bda8-6f1d302016c3" />
 <img width="233" height="288" alt="image" src="https://github.com/user-attachments/assets/b3a58e26-2db6-4465-87e3-dfaef87ea211" />
+
+1) BST NILAI UJIAN
+1. Tambah Nilai
+2. Cari Nilai
+3. Tampilkan Inorder
+4. Tampilkan Preorder
+5. Tampilkan Postorder
+6. Nilai Tertinggi
+7. Nilai Terendah
+8. Rata-rata Nilai
+9. Keluar
+Pilih menu: 1
+Masukkan nilai: 6
+Nilai berhasil ditambahkan
+* Pada output ini, program menampilkan daftar menu utama yang dapat dipilih oleh pengguna. Pengguna memilih menu 1 untuk menambahkan data nilai ke dalam Binary Search Tree. Nilai yang dimasukkan adalah 6 sehingga program menyimpan angka tersebut sebagai root atau node utama karena tree masih kosong. Setelah data berhasil dimasukkan, program menampilkan pesan “Nilai berhasil ditambahkan”.
+
+2) Pilih menu: 1
+Masukkan nilai: 4
+Nilai berhasil ditambahkan
+* Pada bagian ini, pengguna kembali memilih menu tambah nilai dan memasukkan angka 4. Karena nilai 4 lebih kecil dari root 6, maka data ditempatkan pada cabang kiri node 6 sesuai aturan Binary Search Tree. Setelah proses penyimpanan selesai, program menampilkan pesan bahwa nilai berhasil ditambahkan.
+
+3) Pilih menu: 1
+Masukkan nilai: 7
+Nilai berhasil ditambahkan
+* Output ini menunjukkan proses penambahan nilai 7 ke dalam tree. Karena nilai 7 lebih besar dari root 6, maka data ditempatkan pada cabang kanan node 6. Program kemudian menampilkan pesan bahwa data berhasil dimasukkan ke dalam tree.
+
+4) Pilih menu: 1
+Masukkan nilai: 2
+Nilai berhasil ditambahkan
+* Pada bagian ini, pengguna menambahkan nilai 2. Program membandingkan nilai tersebut dengan node root 6 dan node 4. Karena nilai 2 lebih kecil dari keduanya, maka data ditempatkan pada cabang kiri node 4. Setelah itu, program menampilkan pesan bahwa data berhasil ditambahkan.
+
+5) Pilih menu: 1
+Masukkan nilai: 3
+Nilai berhasil ditambahkan
+* Pada output ini, pengguna memasukkan nilai 3. Program membandingkan nilai tersebut dengan node 6, 4, dan 2. Karena 3 lebih kecil dari 6 dan 4 tetapi lebih besar dari 2, maka data ditempatkan pada cabang kanan node 2. Program kemudian menampilkan pesan bahwa nilai berhasil dimasukkan.
+
+6) Pilih menu: 2
+Masukkan nilai yang dicari: 7
+Nilai ditemukan
+* Bagian ini menunjukkan proses pencarian data pada Binary Search Tree. Pengguna memilih menu 2 dan memasukkan nilai 7 untuk dicari. Program melakukan pencarian mulai dari root hingga menemukan node bernilai 7 sehingga menampilkan pesan “Nilai ditemukan”.
+
+7) Pilih menu: 3
+Inorder: 2 3 4 6 7
+* Output ini menampilkan hasil traversal inorder pada Binary Search Tree. Traversal inorder dilakukan dengan urutan cabang kiri, root, lalu cabang kanan sehingga menghasilkan data yang tersusun dari nilai terkecil hingga terbesar, yaitu 2, 3, 4, 6, dan 7.
+
+8) Pilih menu: 4
+Preorder: 6 4 2 3 7
+* Pada bagian ini, program menampilkan traversal preorder. Traversal dilakukan dengan urutan root, cabang kiri, lalu cabang kanan. Oleh karena itu hasil yang ditampilkan adalah 6, 4, 2, 3, dan 7.
+
+9) Pilih menu: 5
+Postorder: 3 2 4 7 6
+* Output ini menunjukkan traversal postorder pada Binary Search Tree. Traversal dilakukan dengan urutan cabang kiri, cabang kanan, kemudian root sehingga menghasilkan urutan data 3, 2, 4, 7, dan 6.
+
+10) Pilih menu: 6
+Nilai tertinggi: 7
+* Pada bagian ini, program menampilkan nilai tertinggi yang terdapat pada Binary Search Tree. Nilai terbesar diperoleh dari node paling kanan pada tree sehingga hasil yang ditampilkan adalah 7.
+
+11) Pilih menu: 7
+Nilai terendah: 2
+* Output ini menunjukkan nilai terendah yang terdapat pada Binary Search Tree. Nilai terkecil diperoleh dari node paling kiri pada tree sehingga program menampilkan angka 2.
+
+12) Pilih menu: 8
+Rata-rata nilai: 4.4
+* Pada bagian ini, program menghitung rata-rata seluruh nilai yang tersimpan pada tree. Total seluruh nilai adalah 22 yang diperoleh dari penjumlahan 6, 4, 7, 2, dan 3. Nilai tersebut kemudian dibagi dengan jumlah data yaitu 5 sehingga diperoleh rata-rata sebesar 4.4.
+
+13) Pilih menu: 9
+Program selesai
+* Output terakhir menunjukkan bahwa pengguna memilih menu 9 untuk keluar dari program. Setelah itu, program menampilkan pesan “Program selesai” dan proses eksekusi program dihentikan.
+
+## e. Link YouTube
+https://youtu.be/8_01HQk-YNQ?si=zjbAwd_HW8hAjmur
+
+
+
+
+
+
+
