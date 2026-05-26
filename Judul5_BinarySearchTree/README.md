@@ -100,3 +100,9 @@ Program ini memiliki beberapa fungsi utama seperti menambahkan nilai, mencari ni
 29. *(baris 167-168)* if __name__ == "__main__":, main()
 * Bagian ini digunakan untuk menjalankan fungsi main() saat file program dieksekusi secara langsung. Dengan adanya bagian ini, seluruh proses program seperti tampilan menu dan pengolahan data BST dapat berjalan secara otomatis ketika program dijalankan.
 
+## d. Output Program 
+<img width="352" height="908" alt="image" src="https://github.com/user-attachments/assets/812bdc56-c41c-4148-add8-00ac1790b819" />
+<img width="363" height="914" alt="image" src="https://github.com/user-attachments/assets/e99bb574-0b96-4ef8-9da9-49c85a729ff0" />
+<img width="389" height="857" alt="image" src="https://github.com/user-attachments/assets/381eebec-f5ba-4564-816f-dabc0f9c7554" />
+<img width="329" height="866" alt="image" src="https://github.com/user-attachments/assets/e8b42e0d-97b8-486f-bda8-6f1d302016c3" />
+<img width="233" height="288" alt="image" src="https://github.com/user-attachments/assets/b3a58e26-2db6-4465-87e3-dfaef87ea211" />
