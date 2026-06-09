@@ -110,3 +110,4 @@ open addressing dengan teknik linear probing. Selain itu, output juga memperliha
 operasi yang dilakukan oleh sistem.
 
 # e. Link Youtube 
+https://youtu.be/EPVxLxAqq1o?si=LkUl1-TIhhHKo9ZH
